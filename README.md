@@ -1,9 +1,9 @@
 ## <img src="https://media.giphy.com/media/3o7aCQ8mfzu4ltK0lG/giphy.gif" width="30px"> there! My name is Roopam Mishra.
 
-<br><br><br>
+<br><br>
 I'm a passionate competitve coder and I love mathematics 💚 .<br>
 I am sleepaholic <img src="https://media.giphy.com/media/21UaLROMobBYtQZMwE/giphy.gif" width="25px">, foodaholic <img src="https://media.giphy.com/media/26DN3tS5CFxUfAu40/giphy.gif" width="40px"> and a music lover <img src="https://media.giphy.com/media/VbQQLEPViSbJOLuKVd/giphy.gif" width="25px">.
-<br><br><br>
+<br><br>
 ### Wanna know more about me:
 <img align="right" height="250" width="350" src="https://media.giphy.com/media/xT8qAXT3f4sZTvjqZq/giphy.gif" alt="GIF" />
 
@@ -14,7 +14,7 @@ I am sleepaholic <img src="https://media.giphy.com/media/21UaLROMobBYtQZMwE/giph
 - 💬 I'm ready to make you smile (not laugh <img src="https://media.giphy.com/media/eH4GmZaiPRFvf4kYGh/giphy.gif" width="35px">)
 - 🤔 Having any query or waana say hi.......  goto Wanna connect;
 - ⚡ Fun fact: Give me chai and I'll work for the whole night.
-<br><br><br>
+<br><br>
 ### Wanna connect:
 <p>
 <a href="https://www.linkedin.com/in/roopam-mishra-713583189/"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg?raw=true"></a>&nbsp;&nbsp;
