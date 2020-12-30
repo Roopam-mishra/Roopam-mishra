@@ -4,7 +4,7 @@ I'm a passionate competitve coder and I love mathematics 💚 .<br>
 I am sleepaholic <img src="https://media.giphy.com/media/21UaLROMobBYtQZMwE/giphy.gif" width="25px">, foodaholic <img src="https://media.giphy.com/media/26DN3tS5CFxUfAu40/giphy.gif" width="40px"> and a music lover <img src="https://media.giphy.com/media/VbQQLEPViSbJOLuKVd/giphy.gif" width="25px">.
 
 ### Wanna know more about me:
-<img align="right" height="230" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="GIF" />
+<img align="right" height="230" width="300" src="https://media.giphy.com/media/xT8qAXT3f4sZTvjqZq/giphy.gif" alt="GIF" />
 
 - ⚡ I’m currently pursuing B.tech in CSE.
 - 🔭 I’m exploring new fields, focusing mainly on Data Structures and Algorithms.
