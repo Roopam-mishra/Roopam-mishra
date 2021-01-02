@@ -11,7 +11,7 @@ I am sleepaholic <img src="https://media.giphy.com/media/21UaLROMobBYtQZMwE/giph
 - 🔭 I’m exploring new fields, focusing mainly on Data Structures and Algorithms.
 - 🌱 I love meeting new people.
 - 👯 I’m a Nyctophile who likes spending hours staring at the night sky.
-- 💬 I'm ready to make you smile (not laugh <img src="https://media.giphy.com/media/eH4GmZaiPRFvf4kYGh/giphy.gif" width="35px">)
+- 💬 I'm always ready to make you smile (not laugh <img src="https://media.giphy.com/media/eH4GmZaiPRFvf4kYGh/giphy.gif" width="35px">)
 - 🤔 Having any query or waana say hi.......  goto Wanna connect;
 - ⚡ Fun fact: Give me chai and I'll work for the whole night.
 <br><br>
